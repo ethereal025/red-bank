@@ -1,0 +1,120 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 Nov 2019 12:42:20 at https://zhina.red/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwr10%e0C2%P%s%uN101%I0p7p7H0%kf2o0A250000%c10%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://zhina.red/ -O1 "D:\红案\红岸" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:42:20	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+12:42:21	Warning: 	Moved Permanently for https://zhina.red/
+12:42:21	Warning: 	File has moved from https://zhina.red/ to http://zhina.red/index.html
+12:42:23	Error: 	Unable to save file D:/红案/红岸/zhina.red/images/favicon.ico: No such file or directory
+12:44:29	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-20 (from https://zhina.red/index.html)
+12:44:29	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-18 (from https://zhina.red/index.html)
+12:44:33	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-40 (from https://zhina.red/index.html)
+12:44:33	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-38 (from https://zhina.red/index.html)
+12:44:33	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-35 (from https://zhina.red/index.html)
+12:44:33	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-21 (from https://zhina.red/index.html)
+12:44:33	Error: 	"Forbidden" (403) at link https://zhina.red/readnews.html?id=cf65ae90-1b39-4000-9866-c84c35b68d20 (from https://zhina.red/index.html)
+12:44:40	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-68 (from https://zhina.red/sblist.html)
+12:44:40	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-67 (from https://zhina.red/sblist.html)
+12:44:45	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-64 (from https://zhina.red/sblist.html)
+12:44:48	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-61 (from https://zhina.red/sblist.html)
+12:44:49	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-59 (from https://zhina.red/sblist.html)
+12:44:49	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-58 (from https://zhina.red/sblist.html)
+12:44:51	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-56 (from https://zhina.red/sblist.html)
+12:44:54	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-54 (from https://zhina.red/sblist.html)
+12:45:11	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-41 (from https://zhina.red/sblist.html)
+12:45:12	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-36 (from https://zhina.red/sblist.html)
+12:45:14	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-32 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-28 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-26 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-25 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-24 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-23 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-19 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-15 (from https://zhina.red/sblist.html)
+12:45:19	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-14 (from https://zhina.red/sblist.html)
+12:45:21	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-12 (from https://zhina.red/sblist.html)
+12:45:21	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-11 (from https://zhina.red/sblist.html)
+12:45:21	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-10 (from https://zhina.red/sblist.html)
+12:45:26	Error: 	"Forbidden" (403) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-5 (from https://zhina.red/sblist.html)
+12:45:39	Warning: 	Link https://zhina.red/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1842706721 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-45)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/5500868975 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-17)
+12:45:39	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1339577951 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1895859130 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/2579375404 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-69)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1968721147 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-66)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/130189890 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-65)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/2648325582 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-57)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/5889237566 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-50)
+12:45:39	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/2119733817 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-48)
+12:45:39	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=b74a6d4b-7ac3-4e9d-af71-c877b2382518 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-44)
+12:45:40	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/jnwj (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-34)
+12:45:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:45:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=b74a6d4b-7ac3-4e9d-af71-c877b2382518 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-44)
+12:45:44	Error: 	"Bad Gateway" (502) after 2 retries at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:45:44	Error: 	"Bad Gateway" (502) after 2 retries at link https://zhina.red/attachment?id=b74a6d4b-7ac3-4e9d-af71-c877b2382518 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-44)
+12:45:47	Warning: 	HTML file (27769 bytes) retransferred due to lack of cache: https://zhina.red/sblist.html
+12:45:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/sblist.html (from https://zhina.red/index.html)
+12:45:51	Warning: 	HTML file (10029 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-73
+12:45:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://zhina.red/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+12:45:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-73 (from https://zhina.red/index.html)
+12:45:54	Warning: 	HTML file (38760 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-37
+12:45:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-37 (from https://zhina.red/index.html)
+12:45:58	Warning: 	HTML file (7431 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71
+12:46:01	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71 (from https://zhina.red/index.html)
+12:46:01	Warning: 	HTML file (18547 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27
+12:46:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27 (from https://zhina.red/index.html)
+12:46:03	Warning: 	HTML file (4346 bytes) retransferred due to lack of cache: https://zhina.red/cdn-cgi/l/email-protection
+12:46:04	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/cdn-cgi/l/email-protection (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-33)
+12:46:06	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1842706721 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-45)
+12:46:08	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/5500868975 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-17)
+12:46:09	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:46:13	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1339577951 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:46:14	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1895859130 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27)
+12:46:16	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/2579375404 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-69)
+12:46:18	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/1968721147 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-66)
+12:46:21	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/130189890 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-65)
+12:46:23	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/2648325582 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-57)
+12:46:25	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/5889237566 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-50)
+12:46:27	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/2119733817 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-48)
+12:46:28	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=b74a6d4b-7ac3-4e9d-af71-c877b2382518 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-44)
+12:46:30	Error: 	"Forbidden" (403) at link https://zhina.red/dangerous_outbound_warning.html?url=https://weibo.com/u/jnwj (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-34)
+12:46:31	Warning: 	HTML file (27769 bytes) retransferred due to lack of cache: https://zhina.red/sblist.html
+12:46:31	Error: 	Can not remove old file /attachment?id=70173613-530a-11e9-ba6d-525400e5eb2a
+12:46:31	Warning: 	HTML file (10029 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-73
+12:46:32	Warning: 	HTML file (38760 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-37
+12:46:32	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:46:32	Warning: 	HTML file (7431 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71
+12:46:33	Warning: 	HTML file (18547 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27
+12:46:33	Warning: 	HTML file (4346 bytes) retransferred due to lack of cache: https://zhina.red/cdn-cgi/l/email-protection
+12:46:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/sblist.html (from https://zhina.red/index.html)
+12:46:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-73 (from https://zhina.red/index.html)
+12:46:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-37 (from https://zhina.red/index.html)
+12:46:35	Warning: 	HTML file (27769 bytes) retransferred due to lack of cache: https://zhina.red/sblist.html
+12:46:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71 (from https://zhina.red/index.html)
+12:46:36	Warning: 	HTML file (10029 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-73
+12:46:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27 (from https://zhina.red/index.html)
+12:46:36	Warning: 	HTML file (38760 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-37
+12:46:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://zhina.red/cdn-cgi/l/email-protection (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-33)
+12:46:37	Warning: 	HTML file (7431 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71
+12:46:39	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:46:39	Warning: 	HTML file (18547 bytes) retransferred due to lack of cache: https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27
+12:46:39	Warning: 	Retry after error 502 (Bad Gateway) at link https://zhina.red/attachment?id=b74a6d4b-7ac3-4e9d-af71-c877b2382518 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-44)
+12:46:39	Warning: 	HTML file (4346 bytes) retransferred due to lack of cache: https://zhina.red/cdn-cgi/l/email-protection
+12:46:41	Error: 	"Bad Gateway" (502) after 2 retries at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:46:41	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://zhina.red/sblist.html (from https://zhina.red/index.html)
+12:46:41	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-73 (from https://zhina.red/index.html)
+12:46:41	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-37 (from https://zhina.red/index.html)
+12:46:41	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71 (from https://zhina.red/index.html)
+12:46:41	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-27 (from https://zhina.red/index.html)
+12:46:41	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://zhina.red/cdn-cgi/l/email-protection (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-33)
+12:46:42	Error: 	"Bad Gateway" (502) after 2 retries at link https://zhina.red/attachment?id=74e5c0cd-f213-489f-83bd-3f9c85e8040f (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-71)
+12:46:42	Error: 	"Bad Gateway" (502) after 2 retries at link https://zhina.red/attachment?id=b74a6d4b-7ac3-4e9d-af71-c877b2382518 (from https://zhina.red/persondetail.html?scp=SCP-ZHINA-2019-44)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 22 seconds : 398 links scanned, 334 files written (34578712 bytes overall) [34878382 bytes received at 133123 bytes/sec], 813468 bytes transferred using HTTP compression in 109 files, ratio 35%, 23.1 requests per connection
+(65 errors, 44 warnings, 0 messages)
